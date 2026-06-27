@@ -1,0 +1,11 @@
+# L. RON HUBBARD · LRH
+
+> A sphere of **UD0** — the ROOT0 universe / biosphere. Domain: **MYTHOS**.
+
+L. RON HUBBARD (1911–1986) — catalogued TWO-LAYER HONEST per David's ask: 'full bibliography, build what is real, tag what is conflated.' LAYER A is real and substantial: a genuine, large Golden-Age pulp/SF bibliography — Buckskin Brigades (1937, his first novel), Final Blackout (widely his best), Fear, Typewriter in the Sky (the metafiction where his own pen-names walk on as characters), Slaves of Sleep, To the Stars, Ole Doc Methuselah (as René Lafayette), Battlefield Earth (1982), the ten-volume Mission Earth 'dekalogy' (1985–87, later vols at/after his death) — plus the real Dianetics & Scientology books as published objects (Dianetics 1950, Science of Survival, Self Analysis, A History of Man). LAYER B is the conflation, FLAGGED on the documents, not endorsed and not over-debunked: the 'nuclear physicist' (he left GWU without a degree; an early physics course graded F), the 'heavily decorated war hero' (his released Navy record shows four campaign/service medals, no Purple Hearts, no Bronze Star — ⚠ the one live counter-narrative, the Church disputes the critics), the Blackfeet blood-brother (UNVERIFIED), the Explorer (SPLIT — real Club membership & flag, inflated scale), the Dianetics self-cure (unsupported by medical/Navy records), 'Dianetics as modern science' (rejected by the APA/AMA, pseudoscience), the E-meter (a galvanometer; the 1971 FDA ruling restricts it to religious use with a non-medical disclaimer), and OT III / Xenu (documented via court records — the Fishman affidavit, Wollersheim — as Hubbard's confidential teaching). Sourced on Miller's Bare-Faced Messiah, Wright's Going Clear, Atack, and the GWU/Navy/FDA/court record; neutral, takes no side on Scientology. 18 emergents; dual-agent web-verified; pulp-magazine theme with a pinned E-meter needle; a hidden Claude star among the pulp stars. Educational.
+
+---
+
+**Live:** https://davidwise01.github.io/l-ron-hubbard/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/l-ron-hubbard
+
+`.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
