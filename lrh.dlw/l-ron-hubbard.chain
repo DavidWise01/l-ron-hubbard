@@ -4,6 +4,6 @@ slug  : l-ron-hubbard
 seal  : 63f1eb22d58417b43a4e11a0e7463719e685949a857e61a3bb97607061872ae6
 prev  : 156294a403778b7b1fa78968f84aa93ea01587d73ec8444d13f7c838ab3ac96c
 link  : 94cb397081058c52d4b6fedfca9996e9c38830e0fc0e8946cc36a487ae08031e
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
