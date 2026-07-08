@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "He really could write — and he really did say he was a physicist and a war hero the records don't support. Both are true at once. Keep the novels on one shelf and the claims next to the documents, and you have the man whole.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 632,
+    "prev": "156294a403778b7b1fa78968f84aa93ea01587d73ec8444d13f7c838ab3ac96c",
+    "link": "94cb397081058c52d4b6fedfca9996e9c38830e0fc0e8946cc36a487ae08031e",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
